@@ -1,6 +1,7 @@
 # Form validation library
 
 Form validation library is a javascript library for validate input form.
+#### [DEMO](https://nhim411.github.io/form-validation/)
 
 ## Installation
 
